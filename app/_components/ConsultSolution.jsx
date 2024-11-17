@@ -60,7 +60,7 @@ const ConsultSolution = () => {
         {/* ******************** */}
         <div className=" md:order-2 order-1 pb-10 md:pb-0">
           <Image
-            src="/assets/consultsolution.png"
+            src="/consultsolution.png"
             width={600}
             height={600}
             alt="consultsolution"

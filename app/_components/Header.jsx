@@ -78,7 +78,7 @@ export default function Header() {
         <div className="flex lg:flex-1">
           <a href="#" className="-m-1.5 p-1.5">
             <span className="sr-only">Your Company</span>
-            <Image src="/assets/logo.png" alt="logo" width={250} height={150} />
+            <Image src="/mainlogo.png" alt="logo" width={250} height={150} />
           </a>
         </div>
         <div className="flex lg:hidden">

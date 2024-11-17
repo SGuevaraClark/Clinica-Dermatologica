@@ -11,7 +11,7 @@ const Footer = () => {
             <div className="px-4 my-4 w-full xl:w-1/4">
               <a href="/" className="block w-56 mb-5">
                 <Image
-                  src="/assets/logo.png"
+                  src="/mainlogo.png"
                   alt="logo"
                   width={250}
                   height={150}

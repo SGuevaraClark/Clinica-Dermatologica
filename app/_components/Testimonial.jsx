@@ -45,7 +45,7 @@ export default function Testimonial() {
                       <div className="h-full bg-white p-8 rounded">
                         <div className="flex items-center justify-between">
                           <img
-                            src="./assets/comma.png"
+                            src="./comma.png"
                             alt="testimonial"
                             className="w-8 pb-5 opacity-60"
                           />
@@ -67,7 +67,7 @@ export default function Testimonial() {
                         <a className="inline-flex items-center">
                           <img
                             alt="testimonial"
-                            src="./assets/main female doctor1.png"
+                            src="./main female doctor1.png"
                             className="w-14 h-14 rounded-full flex-shrink-0 object-cover object-center"
                           />
                           <span className="flex-grow flex flex-col pl-4">
@@ -85,7 +85,7 @@ export default function Testimonial() {
                       <div className="h-full bg-white p-8 rounded">
                         <div className="flex items-center justify-between">
                           <img
-                            src="./assets/comma.png"
+                            src="./comma.png"
                             alt="testimonial"
                             className="w-8 pb-5 opacity-60"
                           />
@@ -107,7 +107,7 @@ export default function Testimonial() {
                         <a className="inline-flex items-center">
                           <img
                             alt="testimonial"
-                            src="./assets/main female doctor1.png"
+                            src="./main female doctor1.png"
                             className="w-14 h-14 rounded-full flex-shrink-0 object-cover object-center"
                           />
                           <span className="flex-grow flex flex-col pl-4">
@@ -134,7 +134,7 @@ export default function Testimonial() {
                       <div className="h-full bg-white p-8 rounded">
                         <div className="flex items-center justify-between">
                           <img
-                            src="./assets/comma.png"
+                            src="./comma.png"
                             alt="testimonial"
                             className="w-8 pb-5 opacity-60"
                           />
@@ -156,7 +156,7 @@ export default function Testimonial() {
                         <a className="inline-flex items-center">
                           <img
                             alt="testimonial"
-                            src="./assets/main female doctor1.png"
+                            src="./main female doctor1.png"
                             className="w-14 h-14 rounded-full flex-shrink-0 object-cover object-center"
                           />
                           <span className="flex-grow flex flex-col pl-4">
@@ -174,7 +174,7 @@ export default function Testimonial() {
                       <div className="h-full bg-white p-8 rounded">
                         <div className="flex items-center justify-between">
                           <img
-                            src="./assets/comma.png"
+                            src="./comma.png"
                             alt="testimonial"
                             className="w-8 pb-5 opacity-60"
                           />
@@ -196,7 +196,7 @@ export default function Testimonial() {
                         <a className="inline-flex items-center">
                           <img
                             alt="testimonial"
-                            src="./assets/main female doctor1.png"
+                            src="./main female doctor1.png"
                             className="w-14 h-14 rounded-full flex-shrink-0 object-cover object-center"
                           />
                           <span className="flex-grow flex flex-col pl-4">
@@ -223,7 +223,7 @@ export default function Testimonial() {
                       <div className="h-full bg-white p-8 rounded">
                         <div className="flex items-center justify-between">
                           <img
-                            src="./assets/comma.png"
+                            src="./comma.png"
                             alt="testimonial"
                             className="w-8 pb-5 opacity-60"
                           />
@@ -245,7 +245,7 @@ export default function Testimonial() {
                         <a className="inline-flex items-center">
                           <img
                             alt="testimonial"
-                            src="./assets/main female doctor1.png"
+                            src="./main female doctor1.png"
                             className="w-14 h-14 rounded-full flex-shrink-0 object-cover object-center"
                           />
                           <span className="flex-grow flex flex-col pl-4">
@@ -263,7 +263,7 @@ export default function Testimonial() {
                       <div className="h-full bg-white p-8 rounded">
                         <div className="flex items-center justify-between">
                           <img
-                            src="./assets/comma.png"
+                            src="./comma.png"
                             alt="testimonial"
                             className="w-8 pb-5 opacity-60"
                           />
@@ -285,7 +285,7 @@ export default function Testimonial() {
                         <a className="inline-flex items-center">
                           <img
                             alt="testimonial"
-                            src="./assets/main female doctor1.png"
+                            src="./main female doctor1.png"
                             className="w-14 h-14 rounded-full flex-shrink-0 object-cover object-center"
                           />
                           <span className="flex-grow flex flex-col pl-4">
@@ -312,7 +312,7 @@ export default function Testimonial() {
                       <div className="h-full bg-white p-8 rounded">
                         <div className="flex items-center justify-between">
                           <img
-                            src="./assets/comma.png"
+                            src="./comma.png"
                             alt="testimonial"
                             className="w-8 pb-5 opacity-60"
                           />
@@ -334,7 +334,7 @@ export default function Testimonial() {
                         <a className="inline-flex items-center">
                           <img
                             alt="testimonial"
-                            src="./assets/main female doctor1.png"
+                            src="./main female doctor1.png"
                             className="w-14 h-14 rounded-full flex-shrink-0 object-cover object-center"
                           />
                           <span className="flex-grow flex flex-col pl-4">
@@ -352,7 +352,7 @@ export default function Testimonial() {
                       <div className="h-full bg-white p-8 rounded">
                         <div className="flex items-center justify-between">
                           <img
-                            src="./assets/comma.png"
+                            src="./comma.png"
                             alt="testimonial"
                             className="w-8 pb-5 opacity-60"
                           />
@@ -374,7 +374,7 @@ export default function Testimonial() {
                         <a className="inline-flex items-center">
                           <img
                             alt="testimonial"
-                            src="./assets/main female doctor1.png"
+                            src="./main female doctor1.png"
                             className="w-14 h-14 rounded-full flex-shrink-0 object-cover object-center"
                           />
                           <span className="flex-grow flex flex-col pl-4">

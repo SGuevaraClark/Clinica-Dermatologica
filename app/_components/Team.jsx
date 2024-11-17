@@ -22,7 +22,7 @@ const Team = () => {
             href="#"
           >
             <img
-              src="./assets/main male doctor4.jpg"
+              src="./main male doctor4.jpg"
               className="shadow rounded-lg overflow-hidden border "
             />
             <div className="mt-8">
@@ -42,7 +42,7 @@ const Team = () => {
             href="#"
           >
             <img
-              src="./assets/main male doctor4.jpg"
+              src="./main male doctor4.jpg"
               className="shadow rounded-lg overflow-hidden border "
             />
             <div className="mt-8">
@@ -62,7 +62,7 @@ const Team = () => {
             href="#"
           >
             <img
-              src="./assets/main male doctor4.jpg"
+              src="./main male doctor4.jpg"
               className="shadow rounded-lg overflow-hidden border "
             />
             <div className="mt-8">
