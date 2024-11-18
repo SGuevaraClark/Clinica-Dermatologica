@@ -31,7 +31,7 @@ const Services = () => {
         </div>
         <div className="bg-gray-700 p-10 rounded-xl hover:bg-gray-100 hover:transition-all hover:scale-105 text-gray-200  hover:text-gray-900 cursor-pointer hover:duration-500">
             <img src="./service_icon1.png" className="w-14 h-14 bg-primary p-3 rounded-lg mb-2" alt="" />
-          <h1 className="text-2xl font-medium py-3">Dental</h1>
+          <h1 className="text-2xl font-medium py-3">Health</h1>
           <p className="">
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat
             saepe quam voluptas ipsa delectus nemo.
@@ -39,7 +39,7 @@ const Services = () => {
         </div>
         <div className="bg-gray-700 p-10 rounded-xl hover:bg-gray-100 hover:transition-all hover:scale-105 text-gray-200  hover:text-gray-900 cursor-pointer hover:duration-500">
             <img src="./service_icon1.png" className="w-14 h-14 bg-primary p-3 rounded-lg mb-2" alt="" />
-          <h1 className="text-2xl font-medium py-3">Dental</h1>
+          <h1 className="text-2xl font-medium py-3">Patient Care</h1>
           <p className="">
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat
             saepe quam voluptas ipsa delectus nemo.
