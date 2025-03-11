@@ -8,6 +8,7 @@ import Services from "./_components/Services";
 import SolutionStep from "./_components/SolutionStep";
 import Team from "./_components/Team";
 import Testimonial from "./_components/Testimonial";
+import Promotions from "./_components/Promotions";
 import AOS from "aos";
 import "aos/dist/aos.css";
 
@@ -21,10 +22,10 @@ export default function Home() {
     <>
       <div className="container mx-auto p-6 lg:px-8">
         <Banner />
+        <Promotions />
         <SolutionStep />
-        <ConsultSolution />
-        <AboutUs />
         <Services />
+        <AboutUs />
         <Team />
         <Testimonial />
         <FAQ />

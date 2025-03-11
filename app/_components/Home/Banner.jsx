@@ -24,7 +24,7 @@ const Banner = () => {
                   data-aos-duration="1000"
                   data-aos-easing="ease-in"
                 >
-                  - The Best Health Solution
+                  - Dermatología & Estética
                 </h5>
                 <h1
                   className="text-4xl md:text-7xl font-semibold md:py-4"
@@ -32,7 +32,7 @@ const Banner = () => {
                   data-aos-duration="1200"
                   data-aos-easing="ease-in"
                 >
-                  Optimal <span>Health</span>, One Click Away
+                  Dra. <span>Virginia</span> Ramos Molina
                 </h1>
                 <p
                   className="text-lg py-4 md:pe-20"
@@ -40,9 +40,9 @@ const Banner = () => {
                   data-aos-duration="1400"
                   data-aos-easing="ease-in"
                 >
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Quisque tincidunt, justo in tincidunt luctus, metus tellus
-                  ultricies nunc, nec vestibulum sapien nunc nec sapien.
+                  Especialista en Dermatología Clínica y Estética con más de 15 años
+                  de experiencia. Ofrecemos tratamientos personalizados para cuidar y 
+                  realzar la belleza natural de su piel.
                 </p>
                 <div
                   className="md:flex gap-5 mt-5 block"
@@ -51,28 +51,27 @@ const Banner = () => {
                   data-aos-easing="ease-in"
                 >
                   <Button size="lg" className="my-2 md:my-0 w-full md:w-auto">
-                    Book an appointment
+                    Agendar Cita
                   </Button>{" "}
                   <Button
                     size="lg"
                     variant="secondary"
                     className="my-2 md:my-0 w-full md:w-auto"
                   >
-                    See How We Work <MoveUpRight size={24} />
+                    Nuestros Servicios <MoveUpRight size={24} />
                   </Button>
                 </div>
               </div>
               <div
                 className="flex justify-center md:order-2 order-1"
                 data-aos="fade-left"
-                // data-aos-duration="1500"
                 data-aos-easing="ease-in-quart"
               >
                 <Image
-                  src="/main-female-doctor.png"
+                  src="/dermatologist.jpg"
                   width={500}
                   height={500}
-                  alt="doctor"
+                  alt="Dra. Virginia Ramos Molina"
                 />
               </div>
             </div>
@@ -80,34 +79,33 @@ const Banner = () => {
           <CarouselItem>
             <div className="grid grid-cols-1 md:grid-cols-2 items-center">
               <div className="md:order-1 order-2">
-                <h5 className="font-medium py-4">- The Best Health Solution</h5>
+                <h5 className="font-medium py-4">- Tratamientos Faciales</h5>
                 <h1 className="text-4xl md:text-7xl font-semibold md:py-4">
-                  Optimal <span>Health</span>, One Click Away
+                  Dr. <span>Face</span> - Rejuvenecimiento Facial
                 </h1>
                 <p className="text-lg py-4 md:pe-20">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Quisque tincidunt, justo in tincidunt luctus, metus tellus
-                  ultricies nunc, nec vestibulum sapien nunc nec sapien.
+                  Tratamientos faciales avanzados que combinan tecnología y productos 
+                  de alta calidad para rejuvenecer su piel y reducir signos de envejecimiento.
                 </p>
                 <div className="md:flex gap-5 mt-5 block">
                   <Button size="lg" className="my-2 md:my-0 w-full md:w-auto">
-                    Book an appointment
+                    Ver Tratamientos
                   </Button>{" "}
                   <Button
                     size="lg"
                     variant="secondary"
                     className="my-2 md:my-0 w-full md:w-auto"
                   >
-                    See How We Work <MoveUpRight size={24} />
+                    Más Información <MoveUpRight size={24} />
                   </Button>
                 </div>
               </div>
               <div className="flex justify-center md:order-2 order-1">
                 <Image
-                  src="/main male doctor1.jpg"
+                  src="/facial-treatment.jpg"
                   width={600}
                   height={600}
-                  alt="doctor"
+                  alt="Tratamiento Facial"
                 />
               </div>
             </div>
@@ -115,34 +113,33 @@ const Banner = () => {
           <CarouselItem>
             <div className="grid grid-cols-1 md:grid-cols-2 items-center">
               <div className="md:order-1 order-2">
-                <h5 className="font-medium py-4">- The Best Health Solution</h5>
+                <h5 className="font-medium py-4">- Tratamientos Especializados</h5>
                 <h1 className="text-4xl md:text-7xl font-semibold md:py-4">
-                  Optimal <span>Health</span>, One Click Away
+                  Dr. <span>Metabolismo</span> & Dr. <span>Pie</span>
                 </h1>
                 <p className="text-lg py-4 md:pe-20">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Quisque tincidunt, justo in tincidunt luctus, metus tellus
-                  ultricies nunc, nec vestibulum sapien nunc nec sapien.
+                  Ofrecemos soluciones integrales con nuestros programas especializados:
+                  tratamientos metabólicos para mejorar su salud y cuidado podológico profesional.
                 </p>
                 <div className="md:flex gap-5 mt-5 block">
                   <Button size="lg" className="my-2 md:my-0 w-full md:w-auto">
-                    Book an appointment
+                    Explorar Servicios
                   </Button>{" "}
                   <Button
                     size="lg"
                     variant="secondary"
                     className="my-2 md:my-0 w-full md:w-auto"
                   >
-                    See How We Work <MoveUpRight size={24} />
+                    Consulta Gratuita <MoveUpRight size={24} />
                   </Button>
                 </div>
               </div>
               <div className="flex justify-center md:order-2 order-1">
                 <Image
-                  src="/main male doctor3.jpg"
+                  src="/specialized-treatment.jpg"
                   width={650}
                   height={650}
-                  alt="doctor"
+                  alt="Tratamientos Especializados"
                 />
               </div>
             </div>
@@ -155,42 +152,42 @@ const Banner = () => {
         <div className="grid grid-cols-2 gap-10 md:gap-4 md:grid-cols-5 items-center justify-center">
           <div className="">
             <Image
-              src="/doctorlogo1.png"
+              src="/certification1.png"
               width={200}
               height={100}
-              alt="logo"
+              alt="Certificación"
             />
           </div>
           <div className="">
             <Image
-              src="/doctorlogo2.png"
+              src="/certification2.png"
               width={200}
               height={100}
-              alt="logo"
+              alt="Certificación"
             />
           </div>
           <div className="">
             <Image
-              src="/doctorlogo3.png"
+              src="/certification3.png"
               width={200}
               height={100}
-              alt="logo"
+              alt="Certificación"
             />
           </div>
           <div className="">
             <Image
-              src="/doctorlogo1.png"
+              src="/product1.png"
               width={200}
               height={100}
-              alt="logo"
+              alt="Producto"
             />
           </div>
           <div className="">
             <Image
-              src="/doctorlogo2.png"
+              src="/product2.png"
               width={200}
               height={100}
-              alt="logo"
+              alt="Producto"
             />
           </div>
         </div>
